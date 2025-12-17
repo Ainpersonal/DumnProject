@@ -16,4 +16,4 @@ This repository represents the collaborative effort of our team. It is designed 
 3.  Run the application.
 4.  And Please respect our work, don't steal.
 
-*Created with ❤️ by the Dummy3 team.*
+*Created with by the Dummy3 team.*
