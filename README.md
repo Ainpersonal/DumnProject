@@ -8,7 +8,7 @@ This repository represents the collaborative effort of our team. It is designed 
 ## 👨‍💻 The Team
 * Asjad Iman Nazeb Zebua
 * Khairil Dermawan
-* Seno
+* Ugroseno Dwi Prakastyo
 
 ## 🚀 How to Run
 1.  Clone this repository.
